@@ -1,16 +1,44 @@
 {
-  "posts":[
+  "blogs": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "hello",
+      "author": "james",
+      "content": "today was good",
+      "stringDate": "18/03/2021",
+      "time": "19:38:21",
+      "userId": "103550578016644813618",
+      "showPost": true,
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "bye",
+      "author": "billy",
+      "content": "today was good too",
+      "stringDate": "18/03/2021",
+      "time": "19:38:21",
+      "userId": "103550578016644813618",
+      "showPost": true,
+      "id": 2
+    },
+    {
+      "title": "dunno",
+      "author": "mister kister",
+      "content": "hello im kister",
+      "stringDate": "18/03/2021",
+      "time": "19:38:21",
+      "userId": "103550578016644813618",
+      "showPost": true,
+      "id": 3
+    },
+    {
+      "title": "dr.mogo",
+      "author": "mogo",
+      "content": "its me mogo!",
+      "stringDate": "18/03/2021",
+      "time": "19:38:21",
+      "userId": "103550578016644813618",
+      "showPost": true,
+      "id": 3
     }
   ]
 }
